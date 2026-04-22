@@ -1,2 +1,3 @@
-# readme-gen
-A web application that streamlines the creation of GitHub README.md files. Users can fill out a simp
+# README Gen
+
+Generate professional GitHub README.md files quickly and easily. Fill out a simple form and get instant Markdown output for your projects.
