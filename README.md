@@ -1,11 +1,17 @@
-# readme-gen: GitHub README Template Generator
+# README Gen
 
-Instantly create professional, feature-rich GitHub README.md files. Fill out a simple form for project details, features, installation, usage, and more, then export perfect markdown.
+Generate professional GitHub README.md files effortlessly. Choose from customizable templates and streamline your project documentation.
 
-## Features:
-- Intuitive form-based input
-- Pre-designed, customizable sections
-- Markdown export & copy-to-clipboard
-- Saves time for developers and open-source contributors.
+## Features
 
-Get your projects looking their best, fast.
+- **Template Selection:** Standard, Modern, Minimalist.
+- **Input Fields:** Project Name, Description, Features, Installation, Usage, License.
+- **Instant Generation:** Get your `.md` file in seconds.
+
+## Get Started
+
+Visit [README Gen](https://your-vercel-app-url.vercel.app) to create your perfect README today!
+
+## Pricing
+
+One-time purchase for full access: $9.99
